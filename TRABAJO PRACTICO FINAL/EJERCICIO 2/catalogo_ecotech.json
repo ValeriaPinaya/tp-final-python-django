@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "EcoSun 300W",
+        "stock": 15,
+        "tipo": "PanelSolar",
+        "ficha": "[Panel Solar] EcoSun 300W - Potencia: 300W - Stock: 15 unidades",
+        "potencia_watts": 300
+    },
+    {
+        "nombre": "EcoSun 500W",
+        "stock": 8,
+        "tipo": "PanelSolar",
+        "ficha": "[Panel Solar] EcoSun 500W - Potencia: 500W - Stock: 8 unidades",
+        "potencia_watts": 500
+    },
+    {
+        "nombre": "Batería Litio",
+        "stock": 10,
+        "tipo": "DispositivoEcologico",
+        "ficha": "Dispositivo: Batería Litio | Stock: 10"
+    }
+]
